@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Tizio Caio</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipisci elit, \n
+    sed do eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, \n
+    quis nostrum exercitationem ullamco laboriosam, nisi ut aliquid ex ea commodi consequatur. \n
+    Duis aute irure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \n
+    Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim
+        \nid est laborum. \n
+    Per gioco, in etologia, psicologia, e altre scienze del comportamento, si intende \n
+        un\'attività (per lo più divertente) di intrattenimento volontaria e intrinsecamente \n
+        motivata, svolta da adulti, bambini, o animali, a scopo ricreativo[1]. Nella lingua italiana, \n
+        la parola "gioco" viene anche impiegata in modo più specifico, riferendosi ad attività \n
+        ricreative di tipo competitivo, e caratterizzate da obiettivi e regole rigorosamente \n
+        definite (come nel caso dei giochi di società o dei giochi da tavolo). \n
+        Dal punto di vista sociale, il gioco è visto come un momento di incontro, dove ci si \n
+        ritrova tutti insieme senza distinzioni di sesso, etnia o religione, un momento di socializzazione, \n
+        dove si acquisiscono anche delle regole. Giocare è anche integrazione, dove, ricordiamo che le \n
+        regole valgono per tutti allo stesso modo. Il gioco è anche divertimento,un momento leggero e \n
+        di spensieratezza.</string>
+    <string name="avatar_image">Avatar Image</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
